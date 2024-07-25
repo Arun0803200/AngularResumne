@@ -1,0 +1,21 @@
+.home {
+    display: grid;
+    grid-template-rows: auto, auto;
+    padding: 0px 100px;
+}
+
+.titleContent {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.titleContent h1 {
+    margin: 1px;
+    font-weight: 400;
+}
+
+.titleContent p {
+    margin: 5px;
+    font-family: Open Sans TTF, sans-serif;
+    font-weight: 400;
+}
